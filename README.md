@@ -73,7 +73,7 @@ Polymer 通过 [Bower](http://bower.io) 进行包管理. 意味着你的 element
 
 ## Service Worker
 
-Polymer Starter Kit 提供了一个离线优先的体验，得益于 Service Worker 和 the [Platinum Service Worker elements](https://github.com/PolymerElements/platinum-sw). 不了解 Service Worker? 阅读这篇[介绍](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) 了解它的原理.
+Polymer Starter Kit 提供了一个离线优先的体验，得益于 Service Worker 和 [Platinum Service Worker elements](https://github.com/PolymerElements/platinum-sw). 不了解 Service Worker? 阅读这篇[介绍](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) 了解它的原理.
 
 我们默认的离线设置对付简单的应用应该是没问题的. 对于复杂的应用,我们推荐你学习 Service Worker 的原理，如此你将可以对 Platinum Service Worker element 进行抽象. 
 
