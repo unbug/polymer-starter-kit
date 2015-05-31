@@ -27,10 +27,10 @@
 
 ### 安装依赖
 
-确保 [Node.js](http://nodejs.org) 和 npm 已经安装, 运行:
+确保 [Node.js](http://nodejs.org) 和 npm 已经安装, 在你下载 Polymer Starter Kit 项目根目录运行:
 
 ```sh
-$ npm run deps
+$ npm install -g gulp && npm install -g bower && npm install && bower install
 ```
 
 这将会安装 element 集合 (Paper, Iron, Platinum) 和我们用来构建及服务应用的工具.
